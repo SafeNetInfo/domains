@@ -1,3 +1,9 @@
+nftset=/verisign.com/4#inet#fw4#vpn_domains
+nftset=/digicert.com/4#inet#fw4#vpn_domains
+nftset=/meethue.com/4#inet#fw4#vpn_domains
+nftset=/lgtvsdp.com/4#inet#fw4#vpn_domains
+nftset=/adtrafficquality.google/4#inet#fw4#vpn_domains
+nftset=/lg.com/4#inet#fw4#vpn_domains
 nftset=/10minutemail.com/4#inet#fw4#vpn_domains
 nftset=/1337x.to/4#inet#fw4#vpn_domains
 nftset=/1drv.com/4#inet#fw4#vpn_domains
