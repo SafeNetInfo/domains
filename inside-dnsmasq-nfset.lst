@@ -1,3 +1,6 @@
+nftset=/.com/4#inet#fw4#vpn_domains
+nftset=/.net/4#inet#fw4#vpn_domains
+nftset=/.google/4#inet#fw4#vpn_domains
 nftset=/verisign.com/4#inet#fw4#vpn_domains
 nftset=/digicert.com/4#inet#fw4#vpn_domains
 nftset=/meethue.com/4#inet#fw4#vpn_domains
